@@ -1,4 +1,4 @@
-# Hi there, I'm Lalith Kavi 👋
+# Hi there, I'm Lallith👋
 
 Welcome to my GitHub profile!
 
