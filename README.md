@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Lalith Kavi 👋
 
-<!--
-**DangerCR7/DangerCR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on building web applications and machine learning models. I'm also learning about Generative AI. 
+
+- 💻 Building: Web Applications
+- 🤖 Developing: Machine Learning Models
+- 🧠 Learning: Generative AI
+
+## How to Reach Me
+
+- 📧 Email: lallithkavi@gmail.com
+
+Feel free to reach out to me for any collaboration, questions, or just to say hi!
+
+---
+
+Thank you for visiting my profile!
