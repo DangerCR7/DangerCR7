@@ -4,7 +4,7 @@
 
 ### 🔥 **Tech Stack & Skills**  
 
-#### 🌟![Programming Languages](https://icons8.com/icon/116827/programming)
+#### 🌟Programming Languages ![(https://img.icons8.com/?size=100&id=116827&format=png&color=000000)]
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
