@@ -1,6 +1,6 @@
 ### 🚀 **Welcome to My GitHub Profile!**  
 
-👋 Hey there! I'm **[Lallith]**, an enthusiastic developer passionate about **Machine Learning, Deep Learning, IoT, and Full Stack Development**. I love building innovative solutions using Python, Java, and C, and working with frameworks like **Spring Boot** and **Flask**.  
+👋 Hey there! I'm **[Lallith]**, an enthusiastic developer passionate about **Machine Learning, Deep Learning, IoT, and Full Stack Development**. I love building innovative solutions using Python, Java, and C, and working with frameworks like **Spring Boot** and **Flask**. Collaborating IoT with Machine Learing to create smart IoT systems.
 
 ### 🔥 **Tech Stack & Skills**  
 
@@ -30,13 +30,13 @@
 ---
 
 ### 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DangerCR7&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DangerCR7&layout=compact&theme=radical)  
 
 ---
 
 ### 🎯 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lallith-ar-b4868925b)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DangerCR7)  
 
 🚀 **"Turning Ideas into Reality with Code!"** 🚀  
