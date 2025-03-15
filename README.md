@@ -18,7 +18,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 
-#### Database
+#### 🗄️ Database
 <p align="left">
   <img src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" alt="Postgres" width=50 height="50"/>
   <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" alt="MySql" width=50 height="50"/>
@@ -29,7 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="50" height="50"/>
-  <img src="h">
+  <img src="https://i.namu.wiki/i/QAax45jgOehPZ2oX7i1bJGZxFV5IbjBqOub2I1eETCEGyjXui8LPpTZRjt2rXeOmNcM8XxFcofkAzRDP7TxNkg.webp" alt="matplotlib" width="100" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WNR24ZR9Kq-CxyDrvXeosQgtC7T9trBqDw&s" alt="seaborn" width="100" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=apebs8fnmi4m&format=png&color=000000" alt="opencv" width="100" height="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DimM9ys60bNm1wNLTyBVwrPuWlmDA9XzRw&s" alt="scikit-learn" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/>
