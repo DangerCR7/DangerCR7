@@ -36,7 +36,7 @@
 ### 📊 **GitHub & LeetCode Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DangerCR7&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DangerCR7&layout=compact&theme=radical)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/lallith_7?theme=dark&font=Montserrat)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Lallith_cr7?theme=dark&font=Montserrat)  
 
 ---
 
